@@ -1,0 +1,8 @@
+distlib==0.3.8
+filelock==3.13.1
+keyboard==0.13.5
+numpy==1.26.3
+opencv-contrib-python==4.7.0.68
+opencv-python==4.9.0.80
+platformdirs==4.1.0
+virtualenv==20.25.0
